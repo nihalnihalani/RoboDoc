@@ -1,2 +1,2 @@
 # RoboDoc
-![](images/robodoc.gif)
+![](images/robodoc.gif=250x250)
